@@ -4,6 +4,6 @@
 
 &nbsp;
 
-[![📄 Download CV](https://img.shields.io/badge/📄_Download_CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://abdalrahmanalsaadi.github.io/CV/AbdAlrahmanAlsaadiCV.pdf)
+[![📄 Download CV](https://img.shields.io/badge/📄_Download_CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/AbdAlrahmanAlsaadi/CV/blob/main/AbdAlrahmanAlsaadiCV.pdf)
 
 </div>

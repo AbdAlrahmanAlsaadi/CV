@@ -1,6 +1,9 @@
-<div align="center" style="margin: 2rem 0;">
+<div align="center">
 
-[![تحميل السيرة الذاتية](https://img.shields.io/badge/📥_تحميل_السيرة_الذاتية-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=22863A)](https://abdAlrahmanAlsaadi.github.io/CV/AbdAlrahmanAlsaadiCV.pdf)
-[![عرض الصفحة](https://img.shields.io/badge/🌐_عرض_الصفحة_الشخصية-181717?style=for-the-badge&logo=github)](https://abdAlrahmanAlsaadi.github.io/CV/)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge&logo=github)](https://abdalrahmanalsaadi.github.io/portfolio/)
+
+&nbsp;
+
+[![📄 Download CV](https://img.shields.io/badge/📄_Download_CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://abdalrahmanalsaadi.github.io/CV/AbdAlrahmanAlsaadiCV.pdf)
 
 </div>
